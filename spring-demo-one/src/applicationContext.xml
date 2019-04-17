@@ -11,6 +11,10 @@
     <bean id="myCoach"
     	class="com.luv2code.springdemo.TrackCoach">
     </bean>
+    
+    <bean id="brickCoach"
+    	class="com.luv2code.springdemo.BrickCoach">
+    </bean>
 </beans>
 
 
