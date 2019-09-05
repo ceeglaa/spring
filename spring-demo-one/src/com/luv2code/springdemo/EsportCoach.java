@@ -8,4 +8,10 @@ public class EsportCoach implements Coach{
 		return "Play Leagur of legends 15 hours every day";
 	}
 
+	@Override
+	public String getDailyFortune() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
 }
