@@ -8,4 +8,10 @@ public class DriverCoach implements Coach{
 		return "Drive 500 km every day";
 	}
 
+	@Override
+	public String getDailyFortune() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
 }

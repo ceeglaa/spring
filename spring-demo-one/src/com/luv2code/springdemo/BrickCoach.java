@@ -8,4 +8,10 @@ public class BrickCoach implements Coach {
 		return "Write spring code 2 hours every day ;)";
 	}
 
+	@Override
+	public String getDailyFortune() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
 }
